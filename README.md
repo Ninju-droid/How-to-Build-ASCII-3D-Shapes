@@ -6,7 +6,7 @@ Congratulations! You have walked through the entire pipeline of a 3D engine. By 
 
 ---
 
-## 🏗️ The Full Rendering Pipeline
+##  The Full Rendering Pipeline
 To recap, every frame of a 3D animation follows this exact sequence:
 
 1. **Clear**: Wipe the buffer clean.
@@ -21,7 +21,7 @@ To recap, every frame of a 3D animation follows this exact sequence:
 
 ---
 
-## 🚀 What is Next?
+##  What is Next?
 
 Now that you understand the "How," it is time to see the "Result." You can now move on to building specific solid objects.
 
@@ -37,14 +37,14 @@ Check out the final code here: [donut.c](https://www.a1k0n.net/2011/07/20/donut-
 
 ---
 
-## 📚 Resources for Further Study
+##  Resources for Further Study
 * **"Donut math":** Look up Andy Sloane’s original blog post on how the `donut.c` was created.
 * **Linear Algebra:** Study "Matrix Multiplication" to learn how to combine X, Y, and Z rotations into a single calculation.
 * **Shaders:** Look into GLSL; the logic you learned here is exactly how "Vertex Shaders" work in modern games like *Cyberpunk 2077* or *Minecraft*.
 
 ---
 
-## 💬 Final Word
+##  Final Word
 Computer graphics isn't magic—it's just **geometry in a hurry**. Now go build something amazing!
 
 
